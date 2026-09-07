@@ -4,3 +4,6 @@ I am Rakshita Hibare, a first-year B.Tech Computer Science and Engineering stude
 ## Skills
 
 I am developing my skills in C, Java, Python, SQL, and web development.
+## Goal
+
+My goal is to improve my programming and problem-solving skills and build useful software projects.
