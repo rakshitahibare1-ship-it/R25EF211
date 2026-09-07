@@ -7,3 +7,6 @@ I am developing my skills in C, Java, Python, SQL, and web development.
 ## Goal
 
 My goal is to improve my programming and problem-solving skills and build useful software projects.
+## Interest
+
+I am interested in web development and learning new technologies.
